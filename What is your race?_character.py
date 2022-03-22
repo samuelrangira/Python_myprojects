@@ -1,5 +1,4 @@
 #Samuel Rangira
-#11/18/2021
 
 import random
 
